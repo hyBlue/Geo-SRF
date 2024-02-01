@@ -1,2 +1,2 @@
-# Geo-SRF
-Geometry Transfer for Stylizing Radiance Fields
+# Geometry Transfer for Stylizing Radiance Fields
+(TBD)
